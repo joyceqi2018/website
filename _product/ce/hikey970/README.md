@@ -1,5 +1,5 @@
 ---
-title: HiKey970 
+title: HiKey970
 layout: product-display-page
 permalink: /product/hikey970/
 shortname: hikey970
@@ -41,13 +41,17 @@ product_accessories:
     link: /product/adapter/
   - title: Debug
     link: /product/debug/
-  - title: Misc
-    link: /product/misc/
+  - title: Case with Fan
+    link: http://smartfire.cn/thread-843-1-1.html
 product_os:
   - title: Coming soon...
 product_third_party_images:
   - title: AOSP
     link: /documentation/consumer/hikey970/downloads/aosp.md.html
+  - title: Lubuntu (LeMaker Ubuntu)
+    link: http://www.lemaker.org/product-hikey970-download-84.html
+  - title: Lebian (LeMaker Debian)
+    link: http://www.lemaker.org/product-hikey970-download-85.html
 product_buy_links:
   -
     link-title: "Amazon"
@@ -77,6 +81,20 @@ product_buy_links:
     link-price-currency: USD
     from: HiHope.com
     type: board
+  -
+    link-title: "Amazon Kit"
+    link-price: "$340.00"
+    link-url: "https://www.amazon.com/SmartFly-info-HiKey-Single-Computer/dp/B07FNLSK2X"
+    link-price-currency: USD
+    from: Amazon.com
+    type: board
+  -
+    link-title: "Amazon Kit (UK)"
+    link-price: "£339.00"
+    link-url: "https://www.amazon.co.uk/SmartFly-info-HiKey-Single-Computer/dp/B07FNLSK2X"
+    link-price-currency: GBP
+    from: Amazon.co.uk
+    type: board
 product_support_link: "https://discuss.96boards.org/c/products/hikey970/"
 product: true
 ---
@@ -88,6 +106,8 @@ HiKey970 is the first 96Boards from the HiKey family to join the 96Boards.ai ini
 - [Lenovator](http://www.lenovator.com/product/135.html)
 - [SeeedStudio](https://www.seeedstudio.com/s/HiKey-970-Development-Board-p-3046.html?utm_source=homepage&utm_medium=homepagebanner&utm_campaign=hp_0426)
 - [HiHope](http://hihope.org/product/HiKey970)
+- [Amazon Kit](https://www.amazon.com/SmartFly-info-HiKey-Single-Computer/dp/B07FNLSK2X)
+- [Amazon Kit (UK)](https://www.amazon.co.uk/SmartFly-info-HiKey-Single-Computer/dp/B07FNLSK2X)
 
 ***
 
@@ -107,5 +127,5 @@ HiKey970 is the first 96Boards from the HiKey family to join the 96Boards.ai ini
 | User Interface:      | Power/Reset<br>8 LED indicators<br>4 -user controllable<br>3 -for radios (BT and WLAN and GPS activity)<br>1 – for CAN                                                                                                              |
 | Power Source:        | DC Power: +8V to +18V                                                                            |
 | OS Support:          | Android<br>Linux                                                                                 |
-| Mechanical:          | 105.26mm by 100mm meeting 96Boards Consumer Edition standard dimensions specifications.          | 
+| Mechanical:          | 105.26mm by 100mm meeting 96Boards Consumer Edition standard dimensions specifications.          |
 | Environmental:       | Operating Temp: 0°C to +70°C RoHS and Reach compliant                                            |

@@ -15,13 +15,11 @@ js-package: openhours
 <iframe width="350" height="120" src="https://w2.countingdownto.com/2050235" frameborder="0"></iframe><br />
 <a href="http://linaro.co/openhoursjoin" class="btn blog-read-more-btn center-block">Click Here to Join BlueJeans Channel</a>
 <a href="https://www.youtube.com/c/96Boards/live" class="btn blog-read-more-btn center-block">Set YouTube Reminder</a>
-<a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=cTc0M2EzbXV1NWhvM3J2b2E1MWI2dnFlNThfMjAxODA3MTlUMTYwMDAwWiByb2JlcnQud29sZmZAbGluYXJvLm9yZw&tmsrc=robert.wolff%40linaro.org" class="btn blog-read-more-btn center-block">Add to you Calendar</a>
+<a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=dmtkZzI1aG5tMzYzbXBsamk5cjUwbG81ajBfMjAxODEyMDZUMTYwMDAwWiByb2JlcnQud29sZmZAbGluYXJvLm9yZw&tmsrc=robert.wolff%40linaro.org">Add to you Calendar</a>
 
 **OpenHours**
 
-Phase two, OpenHours has started - [Check out the pilot here!](https://youtu.be/QPijdGYpLoA)
-
-**This week**, we will be speaking with **[Meral](https://www.instagram.com/my.startuplife/)** and **[Isaac](https://www.instagram.com/iiiccc/)** from [Hello Chava](https://www.hellochava.com/), two of the hardest working people I follow on Instagram. On an almost daily basis, you will find Meral logging and broadcasting the good, bad and ugly faces of a startup life. Her followers get to see it all and take part in this amazing journey through engaging stories and posts. Over time, it has become somewhat of a habit to check up on Hello Chava (among other ventures) to see how things are going! All of this, through Meral's digital looking glass on Instagram. Holding true to the name "my.startuplife", Meral offers a first hand look at what it's like to be a hard working entrepenuer in this fast moving and competative tech world.
+**This week**, we will be meeting with Kate aka [githugs](https://www.instagram.com/githugs/) from Instagram! Kate majored in art and bartended in the service industry for many years. During this time, she started teaching herself to code. Eventually she attended a bootcamp (Hack Reactor) and graduated from there in January 2018 (earlier this year)! Shortly after graduating, she got her first engineering job in New York, working and specializing in javascript, react and node. Bring your questions and coffee (or beer) and join us for an hour of fun conversation with the one and only [githugs](https://www.instagram.com/githugs/)!
 
 The show is also broadcasted live on the 96Boards [Facebook](https://www.facebook.com/96Boards/) and [YouTube](https://www.youtube.com/c/96Boards/live) channels.
 
@@ -50,6 +48,7 @@ The 96Boards Team
 </div>
 <div class="col-md-6">
 <div class="openhours-panel" markdown="1" id="openhours-panel">
+
 ### When
 
 Every Thursday at 4pm UTC

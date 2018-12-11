@@ -91,9 +91,7 @@ As described in the slides there are several basic steps and ingredients that ar
 
   * **Infographic from OCWEEKLY as a guide**
 
-
-    * [http://media.ocweekly.com/6160793.0.pdf](http://media.ocweekly.com/6160793.0.pdf)
-
+Link has been removed
 
   * **Four basic ingredients**
 
@@ -162,12 +160,7 @@ Here are some websites that may help you decide on the type of system you plan o
     * [https://www.westcoastbrewer.com/BrewersBlog/home-brewing-equipment/brew-sculptures-and-homebrewing-stands/home-brewing-stands-and-home-brewery-rig-images/](https://www.westcoastbrewer.com/BrewersBlog/home-brewing-equipment/brew-sculptures-and-homebrewing-stands/home-brewing-stands-and-home-brewery-rig-images/)
 
 
-    * [https://byo.com/hops/item/1325-rims-and-herms-brewing-advanced-homebrewing](https://byo.com/hops/item/1325-rims-and-herms-brewing-advanced-homebrewing)
-
-
-
-
-
+    <!-- Link removed as article was deleted by the website -->
 
 
 ### **Automating your brew system**

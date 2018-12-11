@@ -6,15 +6,20 @@ members:
           - name: Advantech
             image: advantech.jpg
             url: https://www.linaro.org/company/advantech/
-          - name: Archer Mind
-            image: archermind.jpg
-            url: https://www.linaro.org/company/archermind/
           - name: Arm
             image: arm.jpg
             url: https://www.linaro.org/company/arm/
           - name: Arrow Electronics
             image: arrow.jpg
             url: https://www.linaro.org/company/arrow/
+          - name: Analog Devices
+            image: adi.png
+            padded: padded-member-md
+            url: https://www.linaro.org/company/analog-devices/
+          - name: Bitmain
+            image: bitmain_logo.png
+            padded: padded-member-md
+            url: https://www.linaro.org/company/bitmain/
           - name: Google
             image: google.png
             url: https://www.linaro.org/company/google/
@@ -33,9 +38,6 @@ members:
           - name: NXP
             image: nxp.jpg
             url: https://www.linaro.org/company/nxp/
-          - name: QuIC 
-            image: qulc.png
-            url: https://www.linaro.org/company/quic/
           - name: Redhat
             image: redhat.jpg
             url: https://www.linaro.org/company/red-hat/
@@ -45,6 +47,9 @@ members:
           - name: Socionext
             image: socionext.png
             url: https://www.linaro.org/company/socionext/
+          - name: SoftBank
+            image: softbank.jpg
+            url: https://www.softbank.jp/en/
           - name: SpreadTrum
             image: spreadtrum.png
             url: https://www.linaro.org/company/spreadtrum/
@@ -54,6 +59,9 @@ members:
           - name: Texas Instruments
             image: texas-instruments.png
             url: https://www.linaro.org/company/texas-instruments/
+          - name: Tier IV
+            image: tier4.png
+            url: https://www.tier4.jp/
           - name: ThunderSoft
             image: thunder-soft.png
             url: https://www.linaro.org/company/thundersoft/
@@ -68,6 +76,7 @@ members:
           image: arrow.jpg
           url: https://www.linaro.org/company/arrow/
         - name: Avnet
+          padded: padded-member
           image: Avnet.png
           url: https://www.linaro.org/company/avnet/
         - name: Black Whale Technology
@@ -78,9 +87,13 @@ members:
           url: https://www.linaro.org/company/bipai/
         - name: Deltavision
           image: deltavision.png
+          url: https://www.linaro.org/company/deltavision/
         - name: Element 14
           image: element14.png
           url: https://www.linaro.org/company/element14/
+        - name: Fab to Lab
+          image: fab-to-lab.jpg
+          url: https://www.linaro.org/company/fab-to-lab/
         - name: Fujitsu Electronics
           image: fujitsu.jpg
           url: https://www.linaro.org/company/fujitsu-electronics/
@@ -116,6 +129,7 @@ members:
           url: https://www.linaro.org/company/shapedmedia/
         - name: Shiratech
           image: shiratech.png
+          padded: padded-member-md
           url: http://www.shiratech.com
         - name: Thundersoft
           image: thunder-soft.png
@@ -124,14 +138,16 @@ members:
           image: tocoding.png
           url: https://www.linaro.org/company/tocoding/
         - name: UcRobotics
-          image: uc-robotics.png
+          image: ucrobotics.png
+          padded: padded-member-md
           url: https://www.linaro.org/company/ucrobotics/
         - name: vamrs
           image: vamrs.jpg
           url: https://www.linaro.org/company/vamrs/
         - name: Witstek
           image: witstek.png
-          url: http://witstech.cn/
+          # url: http://witstech.cn/
+          padded: padded-member
         - name: Xunlong
           image: xunlong.png
           url: https://www.linaro.org/company/xunlong/

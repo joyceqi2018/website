@@ -203,10 +203,6 @@ p.sub-tag {
     height:25%;
     width:80%;
 }
-.partners-panel{
-    height:500px;
-    margin-top: 40px;
-}
 //Bottom Border Five Pixels.
 .bottom-border-five{ margin-bottom: 5px; }
 
@@ -293,6 +289,13 @@ p.sub-tag {
     background: -webkit-linear-gradient(top, #2a4b41 0%,#000000 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to bottom, #2a4b41 0%, #000000 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr=#2a4b41, endColorstr='#000000',GradientType=0 ); /* IE6-9 */
+}
+//Jumbotron Custom Styling
+.jumbotron.contact{
+    margin-bottom: 0;
+    margin-top:0;
+    background-color: $brand-primary !important;
+    background: none;
 }
 .container .jumbotron, .container-fluid .jumbotron {
     border-radius: 0px;
@@ -405,12 +408,47 @@ div#tabbed-nav-bar {
     -o-transition: none;
     transition: none;
 }
-#wrapper #tabbed-nav-bar .collapse {
-    z-index: 0;
+// CSS for the email button.
+#wrapper .email {
+    height: 50px;
+    background-color: $brand-primary;
+    width: 200px;
+    line-height: 30px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border: 1px solid #9e9e9e;
+    margin-left: auto;
+    margin-right: auto;
+    transition: all 200ms ease;
 }
-
-ul#tab-row {
-    border-bottom: none;
+#wrapper .email:hover {
+    background-color: #3a3a3a;
+    border: 1px solid #000000;
+    color:white;
 }
+// Align the navigation text to the center
 
-
+@media(max-width: $screen-sm-min - 1){
+    a.dropdown-item {
+        text-align: center;
+    }
+    li.main.dropdown.menu {
+        text-align: center;
+    }
+    li.main {
+        text-align: center;
+    }
+}
+#main-navigation .navbar-header {
+    z-index: 9999;
+}
+.container-fluid.breadcrumb-container {
+    background-color: black;
+}
+.navbar-fixed-top, .navbar-fixed-bottom {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 10000;
+}
